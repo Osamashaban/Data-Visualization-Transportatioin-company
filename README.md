@@ -17,10 +17,12 @@ https://datastudio.google.com/u/0/navigation/reporting
 - past your URL google sheet
 
 ## My live Project 
-Google sheet file ( Attached Data Simple file )
+Google sheet file ( Attached Data Simple file ) :
+
 https://docs.google.com/spreadsheets/d/1JavU2U09jPzYRdWOT__TYR6DU2rQR4MYpjqppBsAYRQ/edit#gid=0
 
 Google Data Studio file ( Attached Visualize Report file ): 
+
 https://datastudio.google.com/u/0/reporting/e929e2b7-6d81-4b90-9a1c-c9ac6117ba4c/page/Py3vB
 
 ## Tools : 
